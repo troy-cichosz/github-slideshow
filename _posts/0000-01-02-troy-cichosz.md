@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+_My spoon is too big_
 Use the left arrow to go back!
